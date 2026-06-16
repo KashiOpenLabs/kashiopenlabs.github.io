@@ -1,1 +1,16 @@
-
+[
+  {
+    "id": "KOL-2026-001",
+    "name": "Rahul Sharma",
+    "duration": "June 2026 - July 2026",
+    "project": "SafeTrace",
+    "status": "Verified"
+  },
+  {
+    "id": "KOL-2026-002",
+    "name": "Priya Singh",
+    "duration": "May 2026 - June 2026",
+    "project": "AutisMate",
+    "status": "Verified"
+  }
+]
